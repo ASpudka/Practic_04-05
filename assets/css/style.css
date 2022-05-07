@@ -17,16 +17,16 @@ body{
 .wrapper-gallery{
   display: block;
   padding: 1px;
-  border: 2px solid slateblue;
+  border: 2px solid #0FA8B6;
   margin: 20px;
 }
 
 .inner-gallery{
   display: block;
   padding: 5px;
-  background-color: rgb(151, 144, 248);
+  background-color: #0FA8B6;
   border: 2px solid rgb(239, 244, 247);
-  margin: auto;
+  margin: 5px;
   text-align: center
 }
 
