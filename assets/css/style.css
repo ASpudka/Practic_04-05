@@ -1,0 +1,43 @@
+body{
+  background-color:blanchedalmond
+  margin: 0px;
+
+}
+
+.gallery-heding{
+  margin: auto;
+  color: cornflowerblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 48px;
+  font-style: italic;
+  text-align: center;
+
+}
+
+.wrapper-gallery{
+  display: block;
+  padding: 1px;
+  border: 2px solid slateblue;
+  margin: 20px;
+}
+
+.inner-gallery{
+  display: block;
+  padding: 5px;
+  background-color: rgb(151, 144, 248);
+  border: 2px solid rgb(239, 244, 247);
+  margin: auto;
+  text-align: center
+}
+
+.image-gallery{ 
+  box-sizing: border-box;
+   /* width: 25vw;  */
+  height: 25vh; 
+  object-fit: contain;
+  padding: 5px;
+  border: 2px solid beige;
+  margin: 10px;
+  ;
+
+}
